@@ -1,5 +1,5 @@
 import numpy as np
-A = int(input("Input number №1"))
-B = int(input("Input number №2"))
-C = A+B
+A = int(input("Input first number "))
+B = int(input("Input second number "))
+C = A+B*2
 print(C)
